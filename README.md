@@ -9,8 +9,7 @@ My name is MUHESI.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@MUHESImo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MUHESImo)](https://twitter.com/MUHESImo) [![Linkedin Badge](https://img.shields.io/badge/-MoiseMuhesi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moise-muhesi-5102951bb/) [![Mail Badge](https://img.shields.io/badge/-@MoiseMuhesi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/moisemuhesi/) [![Mail Badge](https://img.shields.io/badge/-mvmmuhesi@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mvmmuhesi@gmail.com)
-
+[![Mail Badge](https://img.shields.io/badge/-mvmmuhesi@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mvmmuhesi@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@MUHESImo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MUHESImo)](https://twitter.com/MUHESImo) [![Linkedin Badge](https://img.shields.io/badge/-MoiseMuhesi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moise-muhesi-5102951bb/) [![Mail Badge](https://img.shields.io/badge/-@MoiseMuhesi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/moisemuhesi/) 
 
 #### 🛠 Top Technologies
 
