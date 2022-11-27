@@ -2,10 +2,9 @@
 
 My name is MUHESI.
 
-🎓   Software Engineer graduated at ULPGL - Goma | Microsoft student ambassadors 🧑‍🎓
-<br/>
-💼   CRES and I am looking for new opportunities.
-
+- 🎓 Software Engineer graduated at ULPGL - Goma | Microsoft student ambassadors 🧑‍🎓
+- 💼  CRES and I am looking for new opportunities.
+- 📫 How to reach me: mvmmuhesi@gmail.com
 
 <h3> 🤝🏻 Connect with Me </h3>
 
