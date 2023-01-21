@@ -22,4 +22,4 @@ My name is MUHESI.
 My some templates :
 - 🔗  Please visit project hosted via [https://muhesi.github.io/poo-e-commerce-front/](https://muhesi.github.io/poo-e-commerce-front/)
 - 🔗  Please visit project hosted via [https://muhesi.github.io/gym-reactjsTypescript/](https://muhesi.github.io/gym-reactjsTypescript/)
-- Please visit project hosted via [https://muhesi.github.io/tailwind-login-component/](https://muhesi.github.io/tailwind-login-component/)
+- 🔗 Please visit project hosted via [https://muhesi.github.io/tailwind-login-component/](https://muhesi.github.io/tailwind-login-component/)
