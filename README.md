@@ -4,7 +4,8 @@ My name is MUHESI.
 
 - 🎓 Software Engineer graduated at ULPGL - Goma | Microsoft student ambassadors 🧑‍🎓
 - 💼  CRES and I am looking for new opportunities.
-- 📫 How to reach me: mvmmuhesi@gmail.com
+- 📫 How to reach me: muhesi@outlook.fr | mvmmuhesi@gmail.com  
+- 🔗 My portfolio  https://muhesi.github.io/portfolio/
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -13,8 +14,8 @@ My name is MUHESI.
 #### 🛠 Top Technologies
 
 - 💻 &nbsp;  JavaScript | Typescript | React & Redux |  Node.js & ExpressJs & NestJs | Php | Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Material-ui Bootstrap ReactJS |
-- 🛢 &nbsp; MongoDB | MySQL | PostgeSQL |
+- 🌐 &nbsp; HTML | CSS | JavaScript | Material-ui Bootstrap ReactJS | Nextsjs
+- 🛢 &nbsp; MongoDB | MySQL | PostgeSQL | Redis
 - 🔧 &nbsp; Git | GitHub | GitFlow
 
 <br />
