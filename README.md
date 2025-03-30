@@ -20,6 +20,7 @@ A Full-Stack Engineer with expertise in developing scalable software solutions t
 
 <br />
 
-About *BoostPub* A SaaS solution for automated marketing on WhatsApp:
+About *BoostPub*, 
+ I founded *BoostPub*, a SaaS solution for automated marketing on WhatsApp:
 - 🔗[https://www.boostpub.pro](https://www.boostpub.pro)
 
