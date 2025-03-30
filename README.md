@@ -1,9 +1,9 @@
 ## Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 My name is MUHESI Moïse.
+A Full-Stack Engineer with expertise in developing scalable software solutions that enhance business efficiency. My skill set includes AI-powered automation, intelligent agents, and seamless API integrations, allowing me to deliver high-performance systems in remote and fast-paced environments.
 
 - 🎓 Software Engineer graduated at ULPGL - Goma | Microsoft student ambassadors 🧑‍🎓
-- 💼  CRES and I am looking for new opportunities.
 - 📫 How to reach me: muhesi@outlook.fr | mvmmuhesi@gmail.com  
 - 🔗 My portfolio http://muhesi.tech
 
